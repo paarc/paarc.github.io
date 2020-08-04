@@ -1,11 +1,183 @@
+
 <!DOCTYPE html>
-<html>
-<body>
+    <head>
+        
 
-<h1>PAARC</h1>
-<img src="PAARC_logo.png" alt="PAARC_logo">
-<p>I did something!</p>
-  <p>I did another thing!</p>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>SU(5)</title>
+        
+        <style>
 
-</body>
+    html body {
+        font-family: 'Arimo', sans-serif;
+        background-color: white;
+    }
+
+    :root {
+        --accent: #2D7B6D;
+        --border-width:  5px ;
+    }
+
+</style>
+
+
+<link rel="stylesheet" href="https://su5.netlify.app/css/main2.css">
+
+
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arimo">
+
+
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"> 
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+ 
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/go.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/haskell.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/kotlin.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/scala.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/swift.min.js"></script>
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
+ <meta name="generator" content="Hugo 0.74.1" />
+        
+            <link href="/index.xml" rel="alternate" type="application/rss&#43;xml" title="SU(5)" />
+            <link href="/index.xml" rel="feed" type="application/rss&#43;xml" title="SU(5)" />
+        
+
+    <meta property="og:title" content="SU(5)" />
+    <meta property="og:description" content="Welcome. We are a peer support and mentorship program for first-year graduate students in physics and astronomy. Click the links above to learn more and join!" >
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="logo1.png" />    
+
+    <meta name="twitter:title" content="SU(5)"/>
+    <meta name="twitter:card" content="summary"/>
+        <meta property="twitter:image" content="logo1.png" />  
+        <meta property="twitter:text:title" content="SU(5)" />
+    <meta name="twitter:description" content="Welcome. We are a peer support and mentorship program for first-year graduate students in physics and astronomy. Click the links above to learn more and join!"/>
+    <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://su5.netlify.app/logo1.png"/>
+
+<meta name="twitter:title" content="SU(5)"/>
+<meta name="twitter:description" content="Welcome. We are a peer support and mentorship program for first-year graduate students in physics and astronomy. Click the links above to learn more and join!"/>
+
+ 
+
+        <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="manifest" href="site.webmanifest">
+
+        
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-168813615-1"></script>
+            <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments)};
+              gtag('js', new Date());
+              gtag('config', 'UA-168813615-1');
+            </script>
+        
+
+        
+            <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+        
+
+        
+
+    </head>
+
+    <body>
+
+        
+
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand visible-xs" href="#">SU(5)</a>
+                    <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse">
+                    
+                        <ul class="nav navbar-nav">
+                            
+                                <li><a href="/">Home</a></li>
+                            
+                                <li><a href="/about/">About Us</a></li>
+                            
+                                <li><a href="/join/">Join</a></li>
+                            
+                                <li><a href="/guide/">Guide</a></li>
+                            
+                                <li><a href="/connect/">Connect</a></li>
+                            
+                        </ul>
+                    
+                    
+                        <ul class="nav navbar-nav navbar-right">
+                            
+                                <li class="navbar-icon"><a href="https://twitter.com/su5_group" target="_blank" rel="noreferrer noopener"><i class="fa fa-twitter"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://www.instagram.com/su5.group/" target="_blank" rel="noreferrer noopener"><i class="fa fa-instagram"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="mailto:su5organizers@gmail.com" target="_blank" rel="noreferrer noopener"><i class="fa fa-envelope-o"></i></a></li>
+                            
+                        </ul>
+                    
+                </div>
+            </div>
+        </nav>
+    </body>
+
+
+<main>
+    <div class="intro">
+         <img class="profile" src="PAARC.png"> 
+        <h2>Welcome. We are a peer support and mentorship program for first-year graduate students in physics and astronomy. Click the links above to learn more and join!</h2>
+        
+    </div>
+</main>
+
+        <footer>
+            <p class="copyright text-muted">© SU(5)</p>
+        </footer>
+
+        
+
+
+    </body>
+
 </html>
+
+
