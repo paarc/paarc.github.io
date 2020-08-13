@@ -20,23 +20,33 @@ googleAnalytics = ""
 
 [[menu.main]]
     url = "/"
-    name = "Home"
+    name = "PAARC"
     weight = 1
 
 [[menu.main]]
-    url = "/about/"
-    name = "About"
+    url = "/mission/"
+    name = "Mission"
     weight = 2
 
 [[menu.main]]
-    url = "/post/"
-    name = "Posts"
+    url = "/Resourses/"
+    name = "Resourses"
     weight = 3
 
+#[[menu.main]]
+#    url = "/project/"
+#    name = "Projects"
+#    weight = 4
+    
 [[menu.main]]
-    url = "/project/"
-    name = "Projects"
+    url = "/statments/"
+    name = "Statments"
     weight = 4
+
+[[menu.main]]
+    url = "/collaborate/"
+    name = "Collaborate"
+    weight = 5
 
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
@@ -48,7 +58,7 @@ googleAnalytics = ""
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
+    url = "https://github.com/paarc/"
     name = "github"
     weight = 2
 
@@ -57,12 +67,12 @@ googleAnalytics = ""
     name = "twitter"
     weight = 3
 
-[[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
-    name = "linkedin"
-    weight = 4
+#[[menu.icon]]
+#    url = "https://www.linkedin.com/in/username/"
+#    name = "linkedin"
+#    weight = 4
 
-[[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "stack-overflow"
-    weight = 5
+#[[menu.icon]]
+#    url = "https://www.stackoverflow.com/username/"
+#    name = "stack-overflow"
+#    weight = 5
