@@ -47,7 +47,7 @@ img {
 .profile {
     width: 40vh;
     height: 40vh;
-    border-radius: 50%;
+    /* border-radius: 50%;*/
 }
 
 /* Colored links */
