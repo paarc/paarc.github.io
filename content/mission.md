@@ -1,6 +1,6 @@
 ---
-title: Mission Statement
-description: What is PAARCS Mission?
+title: PAARC Mission Statement
+description: What is PAARC and what do we want?
 ---
 The Physics and Astronomy Anti-Racism Coalition (PAARC) is a collective of physics and astronomy graduate students, postdocs, and undergraduates dedicated to confronting and dismantling racist and anti-Black structures in academia. We are devoted to building connections and solidarity across universities, their faculty and staff, learning from one another about organizing, and creating and collecting anti-racist resources. We aim to build a physics and astronomy community that is fully committed to the goals of racial and social justice.
 
