@@ -1,13 +1,13 @@
 baseURL = "https://www.paarc.info/"
 languageCode = "en-us"
-title = "PAARC"
+#title = "PAARC"
 theme = "minimal-master"
 #disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
     #author = ""
-    description = "Physics and Astronomy Anti-Racism Coalition"
+    description = "The Physics and Astronomy Anti-Racism Coalition (PAARC) is a collective of physicists and astronomers dedicated to confronting and dismantling racist structures in academia."
     #githubUsername = ""
     accent = "black"
     profilePic = "PAARC_logo.png"
