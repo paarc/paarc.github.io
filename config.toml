@@ -27,21 +27,21 @@ googleAnalytics = ""
     url = "/mission/"
     name = "Mission"
     weight = 2
+    
+[[menu.main]]
+    url = "/statments/"
+    name = "Statments"
+    weight = 3
 
 [[menu.main]]
     url = "/Resourses/"
     name = "Resourses"
-    weight = 3
+    weight = 4
 
 #[[menu.main]]
 #    url = "/project/"
 #    name = "Projects"
 #    weight = 4
-    
-[[menu.main]]
-    url = "/statments/"
-    name = "Statments"
-    weight = 4
 
 [[menu.main]]
     url = "/news/"
