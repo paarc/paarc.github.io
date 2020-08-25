@@ -29,13 +29,13 @@ googleAnalytics = ""
     weight = 2
     
 [[menu.main]]
-    url = "/statments/"
-    name = "Statments"
+    url = "/statements/"
+    name = "Statements"
     weight = 3
 
 [[menu.main]]
-    url = "/Resourses/"
-    name = "Resourses"
+    url = "/Resources/"
+    name = "Resources"
     weight = 4
 
 #[[menu.main]]
