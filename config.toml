@@ -63,7 +63,7 @@ googleAnalytics = ""
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/username/"
+    url = "https://twitter.com/physicsastroarc/"
     name = "twitter"
     weight = 3
 
