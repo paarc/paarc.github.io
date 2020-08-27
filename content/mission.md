@@ -4,7 +4,8 @@ description: What is PAARC and what do we want?
 ---
 The Physics and Astronomy Anti-Racism Coalition (PAARC) is a collective of physics and astronomy graduate students, postdocs, and undergraduates dedicated to confronting and dismantling racist and anti-Black structures in academia. We are devoted to building connections and solidarity across universities, their faculty and staff, learning from one another about organizing, and creating and collecting anti-racist resources. We aim to build a physics and astronomy community that is fully committed to the goals of racial and social justice.
 
-**Vision:**
+Vision
+---------
 
 Academia has failed physicists of color. At every academic level, from the undergraduate classroom to the research laboratory, people of color have been relegated to a perpetually marginalized position within the field of physics. This marginalization, which weighs particularly heavily on Black, Indigenous, and Latinx physicists, takes the forms of exclusion, discrimination, underappreciation, and outright harassment. For physicists and astronomers who are further marginalized on account of their other social identities, especially Black women, LBGTQ+ people of color, and people of color with disabilities, these injustices are especially acute.
 
@@ -15,7 +16,8 @@ These claims are nothing new: Physicists of color have spoken out against these 
 The Physics and Astronomy Anti-Racism Coalition (PAARC) is an organization born out of this new awareness and energy. PAARC is a collective of physics and astronomy graduate students, postdocs, and undergraduates dedicated to confronting and dismantling racist and anti-Black structures in academia. White supremacy is a collective problem which demands a collective solution. With this in mind, we are building a network of scientists that can face these struggles together, by sharing knowledge, developing organizing strategies, building community solidarity, and cultivating the seeds of a nascent anti-racist physics and astronomy culture. We call on our physics and astronomy colleagues to join us in this effort. 
 
 
-**Values:**
+Values
+---------
 
 Spurred on by this understanding, we envision a world in which:
 
@@ -30,7 +32,8 @@ Spurred on by this understanding, we envision a world in which:
 - The current spontaneous push against systemic racism is consolidated into a sustainable, organized movement for radical change.
 
 
-**Tasks of the coalition:**
+Tasks of the coalition
+------------------
 
 In order to realize the values mentioned above, the members of PAARC will work to:
 
