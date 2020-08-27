@@ -33,25 +33,20 @@ googleAnalytics = ""
     name = "Statements"
     weight = 3
 
-[[menu.main]]
-    url = "/Resources/"
-    name = "Resources"
-    weight = 4
-
 #[[menu.main]]
-#    url = "/project/"
-#    name = "Projects"
+#    url = "/Resources/"
+#    name = "Resources"
 #    weight = 4
 
-[[menu.main]]
-    url = "/news/"
-    name = "News"
-    weight = 5
+#[[menu.main]]
+#    url = "/news/"
+#    name = "News"
+#    weight = 5
 
 [[menu.main]]
     url = "/join/"
     name = "Join"
-    weight = 6
+    weight = 4
 
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
