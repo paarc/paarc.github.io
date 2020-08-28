@@ -1,7 +1,10 @@
 [build]
   command = "hugo --gc --minify -b $URL --themesDir ../../"
+<<<<<<< HEAD
   base    = "paarc"
   publish = "paarc"
+=======
+>>>>>>> parent of e4191d9... Revert "Update netlify.toml"
 
 [build.environment]
   HUGO_THEME = "repo"
