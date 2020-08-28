@@ -1,1 +1,1 @@
-[[embed url=https://docs.google.com/forms/d/e/1FAIpQLSesNLM6fISHZK_2-EDRbChuLGStZcWz9IYGnSDAa9MMc3IgSw/viewform]]
+[[include repo=paarc/paarc.github.io path=/layouts/join.html]]
