@@ -1,7 +1,7 @@
 baseURL = "https://www.paarc.info/"
 languageCode = "en-us"
 #title = "PAARC"
-theme = "academia-hugo"
+theme = "academia-hugo-master"
 #disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
