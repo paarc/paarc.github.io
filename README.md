@@ -1,70 +1,85 @@
-<div align="center">
-  <h1><a href="https://gethugothemes.com/" target="_blank" rel="noopener noreferrer">Academia Hugo</a></h1>
-  <p>This theme is a fork of the <a href="https://github.com/gcushen/hugo-academic">Hugo Academic Theme</a>, To setup your project with the Academia Hugo Theme, please read the original theme's <a href="https://sourcethemes.com/academic/docs/" rel="nofollow">documentation</a>.</p>
-  <img src="https://user-images.githubusercontent.com/37659754/65593588-9d6f4a80-dfb2-11e9-93f5-cf3c33f2110f.png" width="100%" alt="Liva Blog template by themefisher">
-</div>
+# Minimal
 
-**Key features:**
-
-- **Page builder** - Create *anything* with [**widgets**](https://sourcethemes.com/academic/docs/page-builder/) and [**elements**](https://sourcethemes.com/academic/docs/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://sourcethemes.com/academic/docs/writing-markdown-latex/), [**Jupyter**](https://sourcethemes.com/academic/docs/jupyter/), or [**RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://sourcethemes.com/academic/themes/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 15+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
+Personal blog theme powered by [Hugo](https://gohugo.io).
+A live demo is available [here](https://themes.gohugo.io/theme/minimal/).
 
 ## Installation
 
-Navigate to your themes folder in your Hugo site and use the following commands:
+You can install the theme either as a clone or submodule.
 
-**Note : You must use `hugo-extended` version to compile SCSS**
+I recommend the latter. From the root of your Hugo site, type the following:
 
 ```
-$ mkdir themes
-$ cd themes
-$ git clone git@github.com:themefisher/academia-hugo.git
+$ git submodule add https://github.com/calintat/minimal.git themes/minimal
+$ git submodule init
+$ git submodule update
 ```
 
-## Main features
+Now you can get updates to Minimal in the future by updating the submodule:
 
-* Fully Responsive Ready.
-* Powered by bootstrap 4 framework.
-* Product Showcase
-* Email Subscription Section
-* Documented codes.
+```
+$ git submodule update --remote themes/minimal
+```
 
-## Reporting Issues
+## Configuration
 
-We use GitHub Issues as the official bug tracker for the Academia Template. Please Search [existing issues](https://github.com/themefisher/academia-hugo/issues). It’s possible someone has already reported the same problem.
-If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/academia-hugo/issues)
+After installation, take a look at the `exampleSite` folder inside `themes/minimal`.
 
-## Technical Support or Questions (Paid)
+To get started, copy the `config.toml` file inside `exampleSite` to the root of your Hugo site:
 
-If you have questions or need help integrating the product please [contact us](mailto:themefisher@gmail.com) instead of opening an issue.  
+```
+$ cp themes/minimal/exampleSite/config.toml .
+```
 
-## Licensing
+Now edit this file and add your own information. Note that some fields can be omitted.
 
-This Theme is released under [Creative Commons Attribution 3.0 (CC-BY-3.0) License](https://creativecommons.org/licenses/by/3.0/)
-If you want to remove the credit simply make a [donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GSG5G2YL3E5V4), so that we can run our contribution to hugo community.
+I recommend you use the theme's archetypes so now delete your site's `archetypes/default.md`.
 
-## Hire Us
-We are available for Hiring of your next HUGO project. Drop Us a mail [themefisher@gmail.com](mailto:themefisher@gmail.com)
+## Features
 
-## Premium Themes
+You can tweak the look of the theme to suit your needs in a number of ways:
 
-| [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) | [![Phantop](https://gethugothemes.com/wp-content/uploads/edd/2019/06/Phantom.jpg)](https://gethugothemes.com/products/phantom-hugo-theme/) | [![redlab](https://gethugothemes.com/wp-content/uploads/edd/2019/09/redlab-hugo-thumbnail.jpg)](https://gethugothemes.com/products/redlab-hugo/) |
-|:---:|:---:|:---:|
-| **Hugo Mega Bundle**  | **Phantom**  | **Red Lab**  |
-| [![GoDocs](https://gethugothemes.com/wp-content/uploads/edd/2020/02/Home-Page-2.png)](https://gethugothemes.com/products/godocs-hugo-documentation-theme/) | [![Influencer](https://gethugothemes.com/wp-content/uploads/2019/11/Influencer.png)](https://gethugothemes.com/products/influencer-hugo/) | [![Kross](https://gethugothemes.com/wp-content/uploads/edd/2019/07/kross-portfolio-template.jpg)](https://gethugothemes.com/products/kross-hugo-theme/) |
-| **GoDocs** | **Influencer** | **Kross** |
-| [![Timer](https://gethugothemes.com/wp-content/uploads/edd/2019/07/Timer.jpg)](https://gethugothemes.com/products/timer-hugo-theme/) | [![Parsa](https://gethugothemes.com/wp-content/uploads/edd/2019/07/parsa-768x576.jpg)](https://gethugothemes.com/products/parsa-hugo-theme/) | [![all](https://gethugothemes.com/wp-content/uploads/2019/12/get-more-hugo-themes.png)](https://gethugothemes.com/shop/) |
-| **Timer** | **Parsa** | **More Hugo Themes** |
+- The accent colour can be changed by using the `accent` field in `config.toml`.
+
+- You can also change the background colour by using `backgroundColor`.
+
+- Add colored 5px borders at the top and bottom of pages by setting `showBorder` to `true`.
+
+For best results, I recommend you use a dark accent colour with a light background, for example:
+
+```toml
+[params]
+    accent = "red"
+    showBorder = true
+    backgroundColor = "white"
+```
+
+### Fonts
+
+The theme uses [Google Fonts](https://fonts.google.com) to load its font. To change the font:
+
+```toml
+[params]
+    font = "Raleway" # should match the name on Google Fonts!
+```
+
+### Syntax highlighting
+
+The theme supports syntax highlighting thanks to [highlight.js](https://highlightjs.org).
+
+It's disabled by default, so you have to enable it by setting `highlight` to `true` in your config.
+
+You can change the style used for the highlighting by using the `highlightStyle` field.
+
+Only the "common" languages will be loaded by default. To load more, use `highlightLanguages`.
+
+A list of all the available styles and languages can be found [here](https://highlightjs.org/static/demo/).
+
+Please note the style and languages should be written in hyphen-separated lowercase, for example:
+
+```toml
+[params]
+    highlight = true
+    highlightStyle = "solarized-dark"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+```

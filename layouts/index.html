@@ -1,9 +1,12 @@
-{{- define "main" -}}
+{{ partial "header" . }}
 
-{{ if not (isset site.Params "color_theme") }}
-  {{ errorf "Please complete the installation of academia by following the steps at https://sourcethemes.com/academic/docs/install/" }}
-{{ end }}
+<main>
+    <div class="intro">
+        {{ with .Site.Params.profilePic }} <img class="profile" src="{{ . }}"> {{ end }}
+        <h1>{{ .Site.Title }}</h1>
+        <h2>{{ markdownify .Site.Params.Description }}</h2>
+        {{ with .Content }} <div class="homepage-content text-justify">{{ . }}</div> {{ end }}
+    </div>
+</main>
 
-{{ partial "widget_page.html" . }}
-
-{{- end -}}
+{{ partial "footer" . }}
