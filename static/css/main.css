@@ -11,7 +11,7 @@ body {
 
 main {
     margin: auto;
-    /*padding: 25px;*/
+    padding: 15px;
     flex: 1 0 auto;
     max-width: 750px;
 }
@@ -23,6 +23,7 @@ img {
 /* Homepage */
 
 .intro {
+    padding-top: 0px;
     transform: translateY(22vh);
 }
 
