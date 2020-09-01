@@ -11,7 +11,7 @@ body {
 
 main {
     margin: auto;
-    padding: 15px;
+    padding: 25px;
     flex: 1 0 auto;
     max-width: 750px;
 }
@@ -72,6 +72,7 @@ a:hover {
 /* Copyright message */
 
 .copyright {
+    padding-top: 20px;
     margin: 15px 0;
 }
 
