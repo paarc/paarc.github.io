@@ -36,7 +36,7 @@ img {
 .intro > h2 {
     /*color: #757575;*/
     color: #000000;
-    font-size: 3vmin;
+    font-size: 4vmin;
 }
 
 /* Page content */
@@ -50,8 +50,8 @@ img {
 /* Profile picture */
 
 .profile {
-    width: 40vh;
-    height: 40vh;
+    width: 35vh;
+    height: 35vh;
     /* border-radius: 50%;*/
 }
 
