@@ -41,7 +41,7 @@ img {
 /* Page content */
 
 .content {
-    padding-top: 20px;
+    /*padding-top: 20px;*/
     padding-bottom: 20px;
 }
 
@@ -70,7 +70,7 @@ a:hover {
 /* Copyright message */
 
 .copyright {
-    margin: 15px 55px;
+    margin: 15px 0;
 }
 
 /* Paginator */
