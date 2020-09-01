@@ -4,6 +4,7 @@ html, body {
 
 body {
     padding-top: 55px;
+    padding-bottom: 55px;
     display: flex;
     text-align: center;
     flex-direction: column;
@@ -11,7 +12,7 @@ body {
 
 main {
     margin: auto;
-    padding: 10px;
+    padding: 25px;
     /*padding: 25px;*/
     flex: 1 0 auto;
     max-width: 850px;
@@ -24,7 +25,6 @@ img {
 /* Homepage */
 
 .intro {
-    padding-top: 3px;
     transform: translateY(22vh);
 }
 
