@@ -11,7 +11,8 @@ body {
 
 main {
     margin: auto;
-    padding: 25px;
+    padding: 55px;
+    /*padding: 25px;*/
     flex: 1 0 auto;
     max-width: 750px;
 }
@@ -41,7 +42,7 @@ img {
 /* Page content */
 
 .content {
-    padding-top: 55px;
+    padding-top: 20px;
     /*padding-top: 20px;*/
     padding-bottom: 20px;
 }
