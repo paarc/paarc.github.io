@@ -20,7 +20,7 @@ googleAnalytics = ""
 
 [[menu.main]]
     url = "/"
-    name = "PAARC"
+    name = "Home"
     weight = 1
 
 [[menu.main]]
