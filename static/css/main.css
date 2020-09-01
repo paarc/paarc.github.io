@@ -3,7 +3,7 @@ html, body {
 }
 
 body {
-    padding-top: 55px;
+    /*padding-top: 55px;*/
     display: flex;
     text-align: center;
     flex-direction: column;
@@ -41,6 +41,7 @@ img {
 /* Page content */
 
 .content {
+    padding-top: 55px;
     /*padding-top: 20px;*/
     padding-bottom: 20px;
 }
