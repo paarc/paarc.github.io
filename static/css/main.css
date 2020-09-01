@@ -3,7 +3,7 @@ html, body {
 }
 
 body {
-    padding-top: 50px;
+    padding-top: 55px;
     display: flex;
     text-align: center;
     flex-direction: column;
@@ -70,7 +70,7 @@ a:hover {
 /* Copyright message */
 
 .copyright {
-    margin: 15px 15px;
+    margin: 55px 0;
 }
 
 /* Paginator */
