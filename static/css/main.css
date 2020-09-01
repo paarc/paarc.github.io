@@ -15,7 +15,6 @@ main {
     /*padding: 25px;*/
     flex: 1 0 auto;
     max-width: 750px;
-    min-width: 412px;
 }
 
 img {
