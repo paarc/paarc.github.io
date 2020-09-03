@@ -28,10 +28,10 @@ googleAnalytics = ""
     name = "Mission"
     weight = 2
     
-#[[menu.main]]
-#    url = "/statements/"
-#    name = "Statements"
-#    weight = 3
+[[menu.main]]
+    url = "/statements/"
+    name = "Statements"
+    weight = 3
 
 #[[menu.main]]
 #    url = "/Resources/"
