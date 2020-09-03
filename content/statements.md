@@ -8,6 +8,7 @@ Although each university has problems that are specific to their own, there are 
 * Invite more BIPOC speakers for colloquium, seminars, etc. 
 * Allocate funds to alleviate financial burdens of academia for marginalized students. 
 * Restructure curriculum and class syllabi to reflect racism in science as well as promote long overlooked research and accomplishments by BIPOC scientists. 
+* Be transparent in and accountable for (in)actions
 * Divest from police on campus. 
 
 An incomplete list of statements that were presented to their respective institutions: 
