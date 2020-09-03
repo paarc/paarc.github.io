@@ -1,6 +1,6 @@
 Following #StrikeForBlackLives and #ShutDownSTEM calls on June 10, 2020, many academic departments received calls to action from their students, postdocs and faculty. Our observation is that graduate students took the lead to voice their concerns and draw a path for our institutions to do better. We collated many of the statements that were released either publicly or locally by students at several universities. If we don’t have your statement, and if you would like to share it, please [contact us](mailto:paarcoalition@gmail.com)! 
 
-Although each university has problems that are specific to their own, there are also commonalities in what students identify as shortfalls and how these can be addressed. In all the statements we read, there is also urgency. As a group of Fermilab scientists put it: We want action - now. Here is a list of common demands in these calls to action: 
+Although each university has problems that are specific to their own, there are also commonalities in what students identify as shortfalls and how these can be addressed. In all the statements we read, there is also urgency. As a group of Fermilab scientists put it: We want [action - now](https://changenowphysics.com/). Here is a list of common demands in these calls to action: 
 
 * Hire more BIPOC faculty. 
 * Address retention problems
