@@ -5,4 +5,4 @@ date: 2020-09-15
 tags: ["BIPOC", "Panel", "Grad", "Undergrad", "graduate school", "Applying"]
 draft: false
 ---
-![flier](Graduate Panel_long_png.png)
+![Graduate Panel flier](/static/Graduate Panel_long_png.png)
