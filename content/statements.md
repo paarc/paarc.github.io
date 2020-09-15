@@ -18,6 +18,6 @@ An incomplete list of statements that were presented to their respective institu
 * [Department of Physics, University of California, Berkeley](https://ucbphysicsjuneteenthletter.com/)
 * [Department of Physics, University of California, Berkeley TEAM-UP Action Plan](https://docs.google.com/document/d/1ioeb5BWG1wh1-vRZ_PmWb9RncTvmuw58FJD0CN-z-xQ/edit?usp=sharing)
 * [Department of Physics, MIT](https://drive.google.com/file/d/1OhIwECHYrDtqRrrQ0R6Fc7NubjeySxnZ/view?usp=sharing)
-* [Department of Physics, University of Chicago](https://docs.google.com/document/d/1HCZrrs-nIS8VxoVlnub95Zi_rqEa1bQ6weHGjAc9kGw/edit?usp=sharing) 
-* [Fermilab](https://changenowphysics.com/)
+* [Department of Physics, University of Chicago](https://docs.google.com/document/d/1HCZrrs-nIS8VxoVlnub95Zi_rqEa1bQ6weHGjAc9kGw/edit?usp=sharing)
 * [Department of Physics, University of Maryland](https://docs.google.com/document/d/1Qnhzyoq-byceyUmNABOL94XcBYJMgliwyz4TcW0RObc/edit?usp=sharing)
+* [Fermilab](https://changenowphysics.com/)
