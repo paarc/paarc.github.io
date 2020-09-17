@@ -1,7 +1,7 @@
 ---
 title: "BIPOC Grad Panel"
 description: Applying to graduate school
-date: 2020-10-01
+date: 2020-09-15
 tags: ["BIPOC", "Panel", "Grad", "Undergrad", "graduate school", "Applying"]
 draft: false
 ---
@@ -15,5 +15,5 @@ Pursuing a PhD or Masters is one of the many options available with your physics
 
 If you are a undergraduate student interested in applying to graduate school for Physics or Astronomy, or are wondering what that experience could look like for you, we invite you to attend our panel on Applying to Graduate School in Physics and Astronomy as a Person of Color on October 1st at 2-4pm PST, 3-5pm MT, 4-6pm CT, 5-7pm EST. The panelists are current Physics/Astronomy graduate students of color that will share their experiences and answer questions about graduate school.
 
-This event will be hosted by the Physics and Astronomy Anti-Racism Coalition (PAARC, a grassroots collective of undergraduates, graduate students and postdoctoral researchers in physics and astronomy dedicated to engaging in anti-racism work across institutions and supporting physicists and astronomers of color.
+This event will be hosted by the Physics and Astronomy Anti-Racism Coalition (PAARC, a grassroots collective of undergraduates, graduate students and postdoctoral researchers in physics and astronomy dedicated to engaging in anti-racism work across institutions and supporting physicists and astronomers of color.)
 
