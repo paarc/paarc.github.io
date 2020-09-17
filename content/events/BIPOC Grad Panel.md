@@ -1,7 +1,7 @@
 ---
 title: "BIPOC Grad Panel"
 description: Applying to graduate school
-date: 2020-09-15
+date: 2020-10-01
 tags: ["BIPOC", "Panel", "Grad", "Undergrad", "graduate school", "Applying"]
 draft: false
 ---
