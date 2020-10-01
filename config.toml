@@ -9,7 +9,7 @@ googleAnalytics = ""
     #author = ""
     description = "The Physics and Astronomy Anti-Racism Coalition (PAARC) is a collective of physicists and astronomers dedicated to confronting and dismantling racist structures in academia."
     #githubUsername = ""
-    accent = "black"
+    accent = "red"
     accent2 = "lightgrey"
     profilePic = "PAARC_logo.png"
     showBorder = true
@@ -28,7 +28,7 @@ googleAnalytics = ""
     url = "/mission/"
     name = "Mission"
     weight = 2
-    
+
 [[menu.main]]
     url = "/statements/"
     name = "Statements"
