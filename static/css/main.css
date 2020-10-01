@@ -87,7 +87,7 @@ img {
 
 a:link, a:visited {
     /*color: var(--accent2); !important*/
-    color: ##4040ff;
+    color: #4040ff;
 }
 
 a.icon:hover {
