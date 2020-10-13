@@ -1,7 +1,7 @@
 ---
 title: "Update from the University of Maryland"
 date: 2020-10-13
-tags: ["umd", "umcp", "update"]
+tags: ["umd", "umcp", "update", "Maryland"]
 draft: false
 ---
 **Has your institution acted on any of your demands? Are there any positive outcomes you have had?**
