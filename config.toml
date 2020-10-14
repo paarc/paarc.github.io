@@ -39,10 +39,10 @@ googleAnalytics = ""
 #    name = "Resources"
 #    weight = 4
 
-#[[menu.main]]
-#    url = "/news/"
-#    name = "News"
-#    weight = 5
+[[menu.main]]
+    url = "/news/"
+    name = "News"
+    weight = 5
 
 [[menu.main]]
     url = "/events/"
