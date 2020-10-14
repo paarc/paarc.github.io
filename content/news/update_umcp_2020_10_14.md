@@ -1,6 +1,6 @@
 ---
 title: "Update from the University of Maryland"
-date: 2020-09-28
+date: 2020-10-14
 tags: ["umd", "umcp", "update", "Maryland"]
 draft: false
 ---
