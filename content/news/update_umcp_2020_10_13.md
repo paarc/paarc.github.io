@@ -1,15 +1,15 @@
 ---
 title: "Update from the University of Maryland"
-date: 2020-10-13
+date: 2020-09-28
 tags: ["umd", "umcp", "update", "Maryland"]
 draft: false
 ---
-**Has your institution acted on any of your demands?**//
+**Has your institution acted on any of your demands?**
 **Are there any positive outcomes you have had?**
 
 **A:**	We asked for a DEI committee which would primarily prepare public reports containing statistics on representation and provide a report card of the department’s progress, and hold town halls to discuss them. The department has set up a “Climate Committee” (not the same thing, it has a much broader scope), but this Committee will hopefully carry out these two functions as part of its work. It is making slow but hopefully steady progress.
 
-**Has your institution flatly refused any of your demands?**//
+**Has your institution flatly refused any of your demands?**
 **Are there any other negative outcomes you have had?**
 
 **A:**	Our request to hire a coordinator for summer programs and a future Bridge program was refused outright citing a lack of funds. Our demand to scrap the GRE and include Black history at appropriate places in the curriculum was not taken seriously in the first meeting, but we have not taken up these issues seriously after that.
