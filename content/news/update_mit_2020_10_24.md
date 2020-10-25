@@ -1,5 +1,5 @@
 ---
-title: "Massachusetts Institute of Technology"
+title: "Update from the Massachusetts Institute of Technology"
 date: 2020-10-24
 tags: ["mit", "institute", "update", "massachusetts"]
 draft: false
