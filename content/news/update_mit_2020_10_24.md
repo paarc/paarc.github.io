@@ -1,7 +1,7 @@
 ---
 title: "Update from the Massachusetts Institute of Technology"
 date: 2020-10-24
-tags: ["mit", "institute", "update", "massachusetts"]
+tags: ["MIT", "Institute", "update", "Massachusetts"]
 draft: false
 ---
 **Has your institution acted on any of your demands? Are there any positive outcomes you have had?**
