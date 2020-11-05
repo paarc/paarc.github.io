@@ -1,6 +1,6 @@
 ---
 title: Statements from the Grassroots
-description: Calls to action from conserned students, postdocs and faculty to their departments
+description: Calls to action from concerned students, postdocs and faculty to their departments
 ---
 
 Following #StrikeForBlackLives and #ShutDownSTEM calls on June 10, 2020, many academic departments received calls to action from their students, postdocs and faculty. Our observation is that graduate students took the lead to voice their concerns and draw a path for our institutions to do better. We collated many of the statements that were released either publicly or locally by students at several universities. If we don’t have your statement, and if you would like to share it, please [contact us](mailto:paarcoalition@gmail.com)! 
