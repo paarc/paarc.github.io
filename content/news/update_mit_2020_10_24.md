@@ -17,7 +17,8 @@ MIT physics graduate students wrote a [33-page list](http://physvals.mit.edu/ini
 **Are there other actions you are taking which are not specifically directed at your institute’s administration (eg. student-facing or community-facing work)? Would you like to share anything from these efforts?**
 
 One reason we have been able to make so much progress so far is the sheer amount of students (and others!) getting involved. Many faculty, [divisions](https://physvals.mit.edu/initiatives/present), and our administration are emphasizing the importance of involvement in outreach, mentoring, and advocacy activities, and at least anecdotally, many students are engaging both in our MIT and local Cambridge communities. There is much activity on the recruitment side, including the launch of a [Graduate Application Assistance Program](https://web.mit.edu/physics/prospective/graduate/application_guidance.html) (PhysGAAP) by GAGA. For education and awareness, at least two research groups have created anti-racism reading clubs ([AMO](https://www.rle.mit.edu/cua_responsive/news/black-lives-matter-4/), [high-energy theory](http://ctp.lns.mit.edu/anti-racismclub.html)).
-Are there any immediate priorities for the next 3 months?
+
+**Are there any immediate priorities for the next 3 months?**
 
 We want to keep pushing forward on our demands while there is still great momentum, as well as put pressure on all sectors of the department to exchange and implement one another’s ideas. In addition, we are looking forward to the future and want to ensure that the systems being put into place right now are set up to make sustained change in the long term, even after the current crop of students have graduated.
 
