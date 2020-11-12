@@ -26,3 +26,4 @@ An incomplete list of statements that were presented to their respective institu
 * [Department of Physics, University of Chicago](https://docs.google.com/document/d/1HCZrrs-nIS8VxoVlnub95Zi_rqEa1bQ6weHGjAc9kGw/edit?usp=sharing)
 * [Department of Physics, University of Maryland](https://docs.google.com/document/d/1Qnhzyoq-byceyUmNABOL94XcBYJMgliwyz4TcW0RObc/edit?usp=sharing)
 * [Fermilab](https://changenowphysics.com/)
+* [Department of Physics and Astronomy, University of Rochester](https://docs.google.com/document/d/1x6WnX3nqyCbOptDR2HNNmUwsy70ilk4uxqeG1vBQHaA/edit?usp=sharing)
