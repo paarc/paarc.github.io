@@ -3,20 +3,20 @@ title: Statements from the Grassroots
 description: Calls to action from concerned students, postdocs and faculty to their departments
 ---
 
-Following #StrikeForBlackLives and #ShutDownSTEM calls on June 10, 2020, many academic departments received calls to action from their students, postdocs and faculty. Our observation is that graduate students took the lead to voice their concerns and draw a path for our institutions to do better. We collated many of the statements that were released either publicly or locally by students at several universities. If we don’t have your statement, and if you would like to share it, please [contact us](mailto:paarcoalition@gmail.com)! 
+Following #StrikeForBlackLives and #ShutDownSTEM calls on June 10, 2020, many academic departments received calls to action from their students, postdocs and faculty. Our observation is that graduate students took the lead to voice their concerns and draw a path for our institutions to do better. We collated many of the statements that were released either publicly or locally by students at several universities. If we don’t have your statement, and if you would like to share it, please [contact us](mailto:paarcoalition@gmail.com)!
 
-Although each university has problems that are specific to their own departments, there are also commonalities in what students identify as shortfalls and how these can be addressed. In all the statements we read, there is also urgency. As a group of Fermilab scientists put it: We want [action - now](https://changenowphysics.com/). Here is a list of common demands in these calls to action: 
+Although each university has problems that are specific to their own departments, there are also commonalities in what students identify as shortfalls and how these can be addressed. In all the statements we read, there is also urgency. As a group of Fermilab scientists put it: We want [action - now](https://changenowphysics.com/). Here is a list of common demands in these calls to action:
 
-* Hire more BIPOC faculty. 
+* Hire more BIPOC faculty.
 * Address retention problems
 * Expect better mentoring faculty, especially mentoring of students from minoritized groups.
-* Invite more BIPOC speakers for colloquium, seminars, etc. 
-* Allocate funds to alleviate financial burdens of academia for marginalized students. 
-* Restructure curriculum and class syllabi to reflect racism in science as well as promote long overlooked research and accomplishments by BIPOC scientists. 
+* Invite more BIPOC speakers for colloquium, seminars, etc.
+* Allocate funds to alleviate financial burdens of academia for marginalized students.
+* Restructure curriculum and class syllabi to reflect racism in science as well as promote long overlooked research and accomplishments by BIPOC scientists.
 * Be transparent in and accountable for (in)actions
-* Divest from police on campus. 
+* Divest from police on campus.
 
-An incomplete list of statements that were presented to their respective institutions: 
+An incomplete list of statements that were presented to their respective institutions:
 ---------------
 
 * [Department of Physics and Astronomy, University of California, Irvine](https://drive.google.com/file/d/1hYs47ONiDIMEzjzxzzsfEUlFflgSr5j7/view?usp=sharing)
@@ -28,3 +28,4 @@ An incomplete list of statements that were presented to their respective institu
 * [Fermilab](https://changenowphysics.com/)
 * [Department of Physics and Astronomy, University of Rochester](https://docs.google.com/document/d/1x6WnX3nqyCbOptDR2HNNmUwsy70ilk4uxqeG1vBQHaA/edit?usp=sharing)
 * [Department of Physics, University of Colorado](https://docs.google.com/document/d/1LMqNnHeGF0TD5hXakwR0RwJJKc5A9t4GNVkH8oW_y5g/edit?usp=sharing)
+* [Department of Physics, University of Oregon](https://docs.google.com/document/d/1__RV_MYrbDGAYEF-vre-NUWeYWvhfMZNp932TNEdQJ8/edit?usp=sharing)
