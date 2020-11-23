@@ -6,6 +6,7 @@ draft: false
 ---
 **Has your institution acted on any of your demands? Are there any positive outcomes you have had?**
 The response was generally positive.
+
 1. After the letter was sent, the department head held a meeting with grad students to hear about more specific personal concerns.
 * Our department already had a Diversity and Departmental Climate Committee before our demands, but we increased the grad student representation from 1 to 3.
 * We added a 4th grad student member to the Admissions Committee (there has traditionally been 3).
@@ -17,6 +18,7 @@ The response was generally positive.
 
 **Has your institution flatly refused any of your demands? Are there any other negative outcomes you have had?**
 The most specific refused demands have been about concrete data. It seems that there is a mismatch in understanding between the faculty and grad students about the utility and ethics of collecting such data. However, I think it is important for us to make sure our actions are motivated by our current state of the department and the needs of the students, instead of just jumping into things we’re not sure will actually help our department.
+
 1. We continue to request a local experience survey, particularly to hear about why people leave the program. The department is hesitant to brainstorm the implementation of this because the university is releasing a full professional survey. The department believes a local survey could either damage the results of the official survey or make it inaccurate. Faculty members have pointed out that an unthoughtful local survey could be particularly harmful to further data collection.
 * We are having a difficult time collecting demographic data for the grad student admissions process and faculty hiring processes. We had hoped to see data that shows the number of BIPOC that apply vs. that are admitted/offered positions vs. those that accept. My understanding is that race and ethnicity questions must remain optional, but the Department Head and some members of the Diversity and Climate Committee are hesitant to ask Admissions and Faculty Search Committees for this information.
 * There seems to be less buy-in for more concrete recruitment of BIPOC potential grad students and faculty. We (the grad students) go back and forth about this, because while we want to take more concrete anti-racist action, we also want to make sure that misconduct does not go ignored as it has so blatantly in our department in the past. We do not want to actively recruit BIPOC to our institution and then have their experiences ignored by faculty and admin.
@@ -26,6 +28,7 @@ Our grad student slack channel has an anti-racism resources channel. We’ve dis
 
 **Are there any immediate priorities for the next 3 months?**
 Grad Students involved in our anti-racism efforts met with the Diversity and Climate Committee to help support the graduate student committee members while they set out a list of priorities to the faculty for the next 3 months. The main thing that came from that meeting was that we can’t just be asked to choose 3 things to prioritize, and that many action items can be done concurrently. Immediate priorities include:
+
 1. Organizing and delegating action items to certain committees (for example, Recruiting Committee and Admissions Committee will work on outreach to HBCUs for grad student recruitment) (unsure of status)
 * The 6 member faculty and grad student support and reporting committee I mentioned above is a top priority (in progress)
 * Choosing a DEI Graduate Employee (done)
