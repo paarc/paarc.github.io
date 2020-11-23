@@ -5,6 +5,7 @@ tags: ["Oregon", "update", "University of Oregon"]
 draft: false
 ---
 **Has your institution acted on any of your demands? Are there any positive outcomes you have had?**
+
 The response was generally positive.
 
 1. After the letter was sent, the department head held a meeting with grad students to hear about more specific personal concerns.
@@ -17,6 +18,7 @@ The response was generally positive.
 * At his State of the Department, Department head encouraged all faculty to do the AIP TEAM UP report self assessment and personally vouched for it being “illuminating”
 
 **Has your institution flatly refused any of your demands? Are there any other negative outcomes you have had?**
+
 The most specific refused demands have been about concrete data. It seems that there is a mismatch in understanding between the faculty and grad students about the utility and ethics of collecting such data. However, I think it is important for us to make sure our actions are motivated by our current state of the department and the needs of the students, instead of just jumping into things we’re not sure will actually help our department.
 
 1. We continue to request a local experience survey, particularly to hear about why people leave the program. The department is hesitant to brainstorm the implementation of this because the university is releasing a full professional survey. The department believes a local survey could either damage the results of the official survey or make it inaccurate. Faculty members have pointed out that an unthoughtful local survey could be particularly harmful to further data collection.
@@ -24,9 +26,11 @@ The most specific refused demands have been about concrete data. It seems that t
 * There seems to be less buy-in for more concrete recruitment of BIPOC potential grad students and faculty. We (the grad students) go back and forth about this, because while we want to take more concrete anti-racist action, we also want to make sure that misconduct does not go ignored as it has so blatantly in our department in the past. We do not want to actively recruit BIPOC to our institution and then have their experiences ignored by faculty and admin.
 
 **Are there other actions you are taking which are not specifically directed at your institute’s administration (eg. student-facing or community-facing work)? Would you like to share anything from these efforts?**
+
 Our grad student slack channel has an anti-racism resources channel. We’ve discussed an anti-racism journal club but that hasn’t happened yet. Our graduate student and undergraduate students groups are being mindful of the effect of the pandemic on students that are already at a disadvantage. Our Women in Physics group is in the process of proposing an Undergraduate Fund to deliver mini-grants to students to cover costs such as textbooks, mastering physics codes, computer repairs, accessories, etc. We will use the application process to prioritize BIPOC and other marginalized groups.
 
 **Are there any immediate priorities for the next 3 months?**
+
 Grad Students involved in our anti-racism efforts met with the Diversity and Climate Committee to help support the graduate student committee members while they set out a list of priorities to the faculty for the next 3 months. The main thing that came from that meeting was that we can’t just be asked to choose 3 things to prioritize, and that many action items can be done concurrently. Immediate priorities include:
 
 1. Organizing and delegating action items to certain committees (for example, Recruiting Committee and Admissions Committee will work on outreach to HBCUs for grad student recruitment) (unsure of status)
@@ -34,7 +38,9 @@ Grad Students involved in our anti-racism efforts met with the Diversity and Cli
 * Choosing a DEI Graduate Employee (done)
 
 **Do you require any assistance or resources in particular from the other members of PAARC at this point? (Feel free to message us on the Slack channel anyway!)**
+
 Not yet! Once we need to push harder on data, I might look to PAARC to see if we can apply pressure or see if other institutions have been able to get this data.
 
 **Is there any further information you would like us to keep private? (We’ll only publish what you wrote above this question)**
+
 In response to the nationwide calls for anti-racism in all institutions, our Diversity and Climate Committee immediately set to work updating the code of conduct. The purpose of this is unclear because it seems fairly redundant. The [updated code](https://docs.google.com/document/d/14mnmAlywGABw8ew6JeGJUddG9i7Vu7er4RhOahWp2Po/edit) of conduct is pretty vague and is kind of just a blanket “be kind to each other!!” type of thing that I immediately forget after reading. It was particularly frustrating because my advisor was the only Underrepresented Minority on the committee, and they refused to listen to his feedback. Because he was constantly talked over and ignored, he took a step back from his responsibilities on the committee. The committee members are well intended, and wanted to make a strong statement showing the departmental commitment to anti-racism, but they never really said those words, and their actions showed an unwillingness to listen to the people they say they are supporting.
