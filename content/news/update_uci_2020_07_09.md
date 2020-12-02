@@ -1,5 +1,5 @@
 ---
-title: "Update from the University of California Irvine"
+title: "Update from the University of California - Irvine"
 date: 2020-07-09
 tags: ["California", "Irvine", "update", "University of California Irvine", "UCI"]
 draft: false

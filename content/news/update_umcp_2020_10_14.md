@@ -1,7 +1,7 @@
 ---
-title: "Update from the University of Maryland"
+title: "Update from the University of Maryland - College Park"
 date: 2020-10-14
-tags: ["UMD", "UMCP", "update", "University of Maryland"]
+tags: ["UMD", "Maryland", "College Park", "UMCP", "update", "University of Maryland"]
 draft: false
 ---
 **Has your institution acted on any of your demands?**
