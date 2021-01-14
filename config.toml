@@ -75,7 +75,7 @@ googleAnalytics = ""
 
 [[menu.icon]]
     url = "https://calendar.google.com/calendar/embed?src=paarcoalition%40gmail.com&ctz=America%2FNew_York"
-    name = "calendar-week"
+    name = "calendar"
     weight = 4
 
 #[[menu.icon]]
