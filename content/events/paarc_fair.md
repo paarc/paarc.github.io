@@ -2,7 +2,7 @@
 title: "PAARC Fair"
 description: A weekend retreat hosted by PAARC dedicated to collective strategizing on DEI issues across universities.
 date: 2021-01-14
-tags: ["organizing", "visioning", "collective action", "retreat", "Fair"]
+tags: ["organizing", "visioning", "collective action", "retreat", "fair"]
 draft: false
 ---
 **<div align="center">October 1st</div>**
