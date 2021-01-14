@@ -20,7 +20,10 @@ Over the last six months, we have brought together hundreds of scientists from a
 
 PAARC Fair Schedule
 --------
-
+First Header   | Second Header
+-------------  | -------------
+*Content Cell* | Content Cell
+Content Cell   | Content Cell
 
 
 **Day 1** | 1
