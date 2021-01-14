@@ -29,15 +29,9 @@ PAARC Fair Schedule
 
 |**Day:** | **1** |
 |--------------------------------------------------------  | -------------------------------------|
-|**9:00-9:30**\
-**PST 12:00-12:30 EST**\
-30 minutes | **Welcome and Introduction to PAARC**|
-|**9:30-9:45**\
-**PST 12:30-12:45 EST**\
-15 minutes | **Icebreaker (Breakout Rooms)**|
-|**9:45-10:00**\
-**PST 12:45-1:00 EST**\
-15 minutes | **Break**|
+|**9:00-9:30**<br>**PST 12:00-12:30 EST**<br>30 minutes | **Welcome and Introduction to PAARC**|
+|**9:30-9:45**<br>**PST 12:30-12:45 EST**<br>15 minutes | **Icebreaker (Breakout Rooms)**|
+|**9:45-10:00**<br>**PST 12:45-1:00 EST**<br>15 minutes | **Break**|
 
 
 |**10:00-10:4 PST\ 1:00-1:45 EST**\ 45 minutes | **PAARC Member Institution Updates**\ Several PAARC member institutions will give brief presentations on the current work being done at their institution.\ *List of presenting institutions: Massachusetts Institute of Technology; University of Wisconsin, Madison; University of Oregon; University of Chicago; University of California, Irvine; University of Maryland*|
