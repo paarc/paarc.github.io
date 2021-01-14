@@ -73,6 +73,11 @@ googleAnalytics = ""
     name = "twitter"
     weight = 3
 
+[[menu.icon]]
+    url = "https://twitter.com/physicsastroarc/"
+    name = "google"
+    weight = 4
+
 #[[menu.icon]]
 #    url = "https://www.linkedin.com/in/username/"
 #    name = "linkedin"
