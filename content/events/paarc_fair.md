@@ -21,6 +21,12 @@ PAARC Fair Schedule
 ----------------------
 
 
+| Syntax | Description |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
 **First day times** | **Activities**
 ------------------- | --------------
 **9:00-9:30**<br>**PST 12:00-12:30 EST**<br>30 minutes | **Welcome and Introduction to PAARC**
