@@ -8,7 +8,7 @@ draft: false
 **<div align="center">October 1st</div>**
 **<div align="center">2-4pm PST/ 3-5pm MT/ 4-6pm CT/ 5-7pm EST</div>**
 
-[![A weekend retreat hosted by PAARC dedicated to collective strategizing on DEI issues across universities.\ Date: January 30-31, 2021\ Time: 9am-2pm PST/12-5pm EST](https://paarc.info/PAARC_fair.gif)](https://www.eventbrite.com/e/120489771149/)
+[![A weekend retreat hosted by PAARC dedicated to collective strategizing on DEI issues across universities.\ Date: January 30-31, 2021\ Time: 9am-2pm PST/12-5pm EST](https://paarc.info/PAARC_fair.png)](https://www.eventbrite.com/e/120489771149/)
 
 **Current Physics/Astronomy graduate students of color will share their experiences applying to grad school while answering questions!**
 
@@ -21,11 +21,12 @@ Over the last six months, we have brought together hundreds of scientists from a
 PAARC Fair Schedule
 --------
 
-**Day 1** |
+**Day 1** | 1
 -------------  | -------------
 **9:00-9:30 PST 12:00-12:30 EST** 30 minutes | **Welcome and Introduction to PAARC**
 **9:30-9:45 PST 12:30-12:45 EST** 15 minutes | **Icebreaker (Breakout Rooms)**
 **9:45-10:00 PST 12:45-1:00 EST** 15 minutes | **Break**
+
 **10:00-10:4 PST\ 1:00-1:45 EST**\ 45 minutes | **PAARC Member Institution Updates**\ Several PAARC member institutions will give brief presentations on the current work being done at their institution.\ *List of presenting institutions: Massachusetts Institute of Technology; University of Wisconsin, Madison; University of Oregon; University of Chicago; University of California, Irvine; University of Maryland*
 **10:45-11:00 PST\ 1:45-2:00 EST**\ 15 minutes | **Break / Q&A for Individual Institutions**
 **11:00-12:00 PST\ 2:00-3:00 EST**\ 1 Hour | **Institutional Strategy Meeting I**\ Attendees will have the chance to collectively strategize around the issues at their specific institutions. This first institutional strategy meeting will focus on identifying common issues and determining priorities for collective action.
