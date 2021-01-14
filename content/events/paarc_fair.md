@@ -21,7 +21,7 @@ Over the last six months, we have brought together hundreds of scientists from a
 PAARC Fair Schedule
 --------
 
-**Day:** | **1**
+**Fist day times ** | **Activities**
 --------------------------------------------------------  | -------------------------------------
 **9:00-9:30**<br>**PST 12:00-12:30 EST**<br>30 minutes | **Welcome and Introduction to PAARC**
 **9:30-9:45**<br>**PST 12:30-12:45 EST**<br>15 minutes | **Icebreaker (Breakout Rooms)**
@@ -34,7 +34,8 @@ PAARC Fair Schedule
 **12:45-1:00 PST**<br>**3:45-4:00 EST**<br>15 minutes | **Break**
 **1:00-2:00 PST**<br>**3:00-4:00 EST**<br>1 hour | **Social Hour**
 
-**Day 2** |
+
+**Second day times ** | **Activities**
 -------------  | -------------
 **9:00-9:15 PST**<br>**12:00-12:15 EST**<br>15 minutes | **Day 2 Welcome**
 **9:15-10:00 PST**<br>**12:15-1:00 EST**<br>45 minutes | **Outreach Strategizing Meeting**<br>PAARC members will present on PAARC’s current outreach methods (website team, social media outreach). PAARC members and outside attendees will be able to strategize around how PAARC can expand its reach. An important priority for this meeting will revolve around ways that PAARC can better reach and support undergraduates, especially Black, Indigenous, and Latinx folks.<br>*If you are interested in joining PAARC’s social media or outreach teams, please follow up with the presenters for this session.*
