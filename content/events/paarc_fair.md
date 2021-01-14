@@ -43,6 +43,10 @@ PAARC Fair Schedule
 | **9:30-9:45**<br>**PST 12:30-12:45 EST**<br>15 minutes | **Icebreaker (Breakout Rooms)** |
 | **9:45-10:00**<br>**PST 12:45-1:00 EST**<br>15 minutes | **Break** |
 | **10:00-10:4 PST**<br>**1:00-1:45 EST**<br>45 minutes | **PAARC Member Institution Updates**<br>Several PAARC member institutions will give brief presentations on the current work being done at their institution.<br> *List of presenting institutions: Massachusetts Institute of Technology; University of Wisconsin, Madison; University of Oregon; University of Chicago; University of California, Irvine; University of Maryland* |
+
+
+
+
 | **10:45-11:00 PST**<br>**1:45-2:00 EST**<br>15 minutes | **Break / Q&A for Individual Institutions** |
 | **11:00-12:00 PST**<br>**2:00-3:00 EST**<br>1 Hour | **Institutional Strategy Meeting I**<br>Attendees will have the chance to collectively strategize around the issues at their specific institutions. This first institutional strategy meeting will focus on identifying common issues and determining priorities for collective action.|
 | **12:00-12:15 PST**<br>**3:00-3:15 EST**<br>15 minutes | **Break** |
