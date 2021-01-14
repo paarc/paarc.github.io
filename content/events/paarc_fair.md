@@ -19,7 +19,8 @@ The Physics and Astronomy Anti-Racism Coalition (PAARC) is a collective of physi
 Over the last six months, we have brought together hundreds of scientists from all levels of academia that are committed to dismantling racism and other systems of oppression within physics and astronomy. **The PAARC Fair is an opportunity to capitalize further on this momentum and engage in nationwide collective action. Over the course of two days, we will be hosting a number of open sessions where both PAARC members and folks outside of PAARC can come together to share strategies, resources, and ideas.**
 
 PAARC Fair Schedule
---------
+----------------------
+
 
 **Fist day times ** | **Activities**
 --------------------------------------------------------  | -------------------------------------
