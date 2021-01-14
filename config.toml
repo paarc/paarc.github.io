@@ -74,8 +74,8 @@ googleAnalytics = ""
     weight = 3
 
 [[menu.icon]]
-    url = "https://twitter.com/physicsastroarc/"
-    name = "google"
+    url = "https://calendar.google.com/calendar/embed?src=paarcoalition%40gmail.com&ctz=America%2FNew_York"
+    name = "calendar-week"
     weight = 4
 
 #[[menu.icon]]
