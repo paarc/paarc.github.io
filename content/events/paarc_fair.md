@@ -21,13 +21,14 @@ Over the last six months, we have brought together hundreds of scientists from a
 PAARC Fair Schedule
 --------
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | *Title*      |
-| Paragraph   | Text        |
+| Syntax           | Description |
+| ---------------- | ----------- |
+| Header           | *Title*     |
+| Paragraph        | Text        |
 
-|**Day 1** |
-|-------------  | -------------|
+
+|**Day:** | **1** |
+|--------------------------------------------------------  | -------------------------------------|
 |**9:00-9:30 PST 12:00-12:30 EST** 30 minutes | **Welcome and Introduction to PAARC**|
 |**9:30-9:45 PST 12:30-12:45 EST** 15 minutes | **Icebreaker (Breakout Rooms)**|
 |**9:45-10:00 PST 12:45-1:00 EST** 15 minutes | **Break**|
