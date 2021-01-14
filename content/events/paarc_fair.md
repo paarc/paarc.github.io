@@ -8,7 +8,7 @@ draft: false
 **<div align="center">October 1st</div>**
 **<div align="center">2-4pm PST/ 3-5pm MT/ 4-6pm CT/ 5-7pm EST</div>**
 
-<div align="center">[![A weekend retreat hosted by PAARC dedicated to collective strategizing on DEI issues across universities.\ Date: January 30-31, 2021\ Time: 9am-2pm PST/12-5pm EST](https://paarc.info/PAARC_fair.png)](https://www.eventbrite.com/e/120489771149/)</div>
+[![<div align="center">A weekend retreat hosted by PAARC dedicated to collective strategizing on DEI issues across universities.\ Date: January 30-31, 2021\ Time: 9am-2pm PST/12-5pm EST</div>](https://paarc.info/PAARC_fair.png)](https://www.eventbrite.com/e/120489771149/)
 
 **Current Physics/Astronomy graduate students of color will share their experiences applying to grad school while answering questions!**
 
@@ -20,6 +20,11 @@ Over the last six months, we have brought together hundreds of scientists from a
 
 PAARC Fair Schedule
 --------
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | *Title*      |
+| Paragraph   | Text        |
 
 |**Day 1** |
 |-------------  | -------------|
