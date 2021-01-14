@@ -39,7 +39,7 @@ PAARC Fair Schedule
 Several PAARC member institutions will give brief presentations on the current work being done at their institution.\
 *List of presenting institutions: Massachusetts Institute of Technology; University of Wisconsin, Madison; University of Oregon; University of Chicago; University of California, Irvine; University of Maryland*
 
-**10:45-11:00 PST | 1:45-2:00 EST** (15 minutes)
+**10:45-11:00 PST | 1:45-2:00 EST** (15 minutes)\
 **Break / Q&A for Individual Institutions**
 
 **11:00-12:00 PST | 2:00-3:00 EST** (1 Hour)\
