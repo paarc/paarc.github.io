@@ -29,7 +29,7 @@ PAARC Fair Schedule
  **Welcome and Introduction to PAARC**
 
 **9:30-9:45 PST | 12:30-12:45 EST** (15 minutes)\
-**Icebreaker<br>(Breakout Rooms)**
+**Icebreaker (Breakout Rooms)**
 
 **9:45-10:00 PST | 12:45-1:00 EST** (15 minutes)\
 **Break**
