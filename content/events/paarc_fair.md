@@ -8,7 +8,7 @@ draft: false
 **<div align="center">October 1st</div>**
 **<div align="center">2-4pm PST/ 3-5pm MT/ 4-6pm CT/ 5-7pm EST</div>**
 
-[![<div align="center">A weekend retreat hosted by PAARC dedicated to collective strategizing on DEI issues across universities.\ Date: January 30-31, 2021\ Time: 9am-2pm PST/12-5pm EST</div>](https://paarc.info/PAARC_fair.png)](https://www.eventbrite.com/e/120489771149/)
+[A weekend retreat hosted by PAARC dedicated to collective strategizing on DEI issues across universities.\ Date: January 30-31, 2021\ Time: 9am-2pm PST/12-5pm EST](https://www.eventbrite.com/e/120489771149/)
 
 **Current Physics/Astronomy graduate students of color will share their experiences applying to grad school while answering questions!**
 
@@ -22,8 +22,8 @@ PAARC Fair Schedule
 ----------------------
 
 
-|**Fist day times** | **Activities**|
---------------------------------------------------------  | -------------------------------------
+|**First day times** | **Activities**|
+|------------------- | --------------|
 **9:00-9:30**<br>**PST 12:00-12:30 EST**<br>30 minutes | **Welcome and Introduction to PAARC**
 **9:30-9:45**<br>**PST 12:30-12:45 EST**<br>15 minutes | **Icebreaker (Breakout Rooms)**
 **9:45-10:00**<br>**PST 12:45-1:00 EST**<br>15 minutes | **Break**
@@ -36,8 +36,8 @@ PAARC Fair Schedule
 **1:00-2:00 PST**<br>**3:00-4:00 EST**<br>1 hour | **Social Hour**
 
 
-|**Second day times ** | **Activities**|
--------------  | -------------
+|**Second day times** | **Activities**|
+|-------------------- | --------------|
 **9:00-9:15 PST**<br>**12:00-12:15 EST**<br>15 minutes | **Day 2 Welcome**
 **9:15-10:00 PST**<br>**12:15-1:00 EST**<br>45 minutes | **Outreach Strategizing Meeting**<br>PAARC members will present on PAARC’s current outreach methods (website team, social media outreach). PAARC members and outside attendees will be able to strategize around how PAARC can expand its reach. An important priority for this meeting will revolve around ways that PAARC can better reach and support undergraduates, especially Black, Indigenous, and Latinx folks.<br>*If you are interested in joining PAARC’s social media or outreach teams, please follow up with the presenters for this session.*
 **10:00-10:15 PST**<br>**1:00-1:15 EST**<br>15 minutes | **Break**
