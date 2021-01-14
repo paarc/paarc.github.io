@@ -22,7 +22,7 @@ PAARC Fair Schedule
 ----------------------
 
 
-**Fist day times ** | **Activities**
+|**Fist day times** | **Activities**|
 --------------------------------------------------------  | -------------------------------------
 **9:00-9:30**<br>**PST 12:00-12:30 EST**<br>30 minutes | **Welcome and Introduction to PAARC**
 **9:30-9:45**<br>**PST 12:30-12:45 EST**<br>15 minutes | **Icebreaker (Breakout Rooms)**
@@ -36,7 +36,7 @@ PAARC Fair Schedule
 **1:00-2:00 PST**<br>**3:00-4:00 EST**<br>1 hour | **Social Hour**
 
 
-**Second day times ** | **Activities**
+|**Second day times ** | **Activities**|
 -------------  | -------------
 **9:00-9:15 PST**<br>**12:00-12:15 EST**<br>15 minutes | **Day 2 Welcome**
 **9:15-10:00 PST**<br>**12:15-1:00 EST**<br>45 minutes | **Outreach Strategizing Meeting**<br>PAARC members will present on PAARC’s current outreach methods (website team, social media outreach). PAARC members and outside attendees will be able to strategize around how PAARC can expand its reach. An important priority for this meeting will revolve around ways that PAARC can better reach and support undergraduates, especially Black, Indigenous, and Latinx folks.<br>*If you are interested in joining PAARC’s social media or outreach teams, please follow up with the presenters for this session.*
@@ -45,5 +45,5 @@ PAARC Fair Schedule
 **11:15-11:30 PST**<br>**2:15-2:30 EST**<br>15 minutes | **Break**
 **11:30-12:30 PST**<br>**2:30-3:30 EST**<br>1 hour | **PAARC Vision Meeting**<br>PAARC members will present on PAARC’s current vision, values, and structure. PAARC members and outside attendees will be able to offer feedback on PAARC’s vision, values, and structure, and discuss PAARC’s long-term goals.<br>*If you are interested in joining PAARC’s organizational team, please follow up with the presenters for this session.*
 **12:30-12:45 PST**<br>**3:30-3:45 EST**<br>15 minutes | **Break**
-**12:45-1:45 PST**<br>**3:45-4:45 EST**<br>1 hour | **PAARC Strategy Meeting**<br>PAARC members will present on PAARC’s current activities. PAARC members and outside attendees will be able to offer feedback on PAARC’s current activities and short-term goals, and brainstorm potential futures.<br> *If you are interested in joining PAARC’s organizational team, please follow up with the presenters for this session.*
+**12:45-1:45 PST**<br>**3:45-4:45 EST**<br>1 hour | **PAARC Strategy Meeting**<br>PAARC members will present on PAARC’s current activities. PAARC members and outside attendees will be able to offer feedback on PAARC’s current activities and short-term goals, and brainstorm potential futures.<br>*If you are interested in joining PAARC’s organizational team, please follow up with the presenters for this session.*
 **1:45-2:00 PST**<br>**4:45-5:00 EST**<br>15 minutes | **Closing and Feedback**
