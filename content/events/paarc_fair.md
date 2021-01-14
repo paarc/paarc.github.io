@@ -23,13 +23,13 @@ PAARC Fair Schedule
 
 | Syntax | Description |
 | --- | ----------- |
-| Header | Title |
+| Header Header Header Header Header<br> Header Header Header Header Header | Title |
 | Paragraph | Text |
 
 
 | Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header Header Header Header Header     | Title       | Here's this   |
+| :---        |    :----   |          ---: |
+| Header Header Header Header Header<br>Header Header Header Header     | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
 
 
