@@ -20,25 +20,19 @@ Over the last six months, we have brought together hundreds of scientists from a
 
 PAARC Fair Schedule
 --------
-First Header   | Second Header
--------------  | -------------
-*Content Cell* | Content Cell
-Content Cell   | Content Cell
 
-
-**Day 1** | 1
--------------------------------------------- | ---------------------------------------
-**9:00-9:30 PST 12:00-12:30 EST** 30 minutes | **Welcome and Introduction to PAARC**
-**9:30-9:45 PST 12:30-12:45 EST** 15 minutes | **Icebreaker (Breakout Rooms)**
-**9:45-10:00 PST 12:45-1:00 EST** 15 minutes | **Break**
-
-**10:00-10:4 PST\ 1:00-1:45 EST**\ 45 minutes | **PAARC Member Institution Updates**\ Several PAARC member institutions will give brief presentations on the current work being done at their institution.\ *List of presenting institutions: Massachusetts Institute of Technology; University of Wisconsin, Madison; University of Oregon; University of Chicago; University of California, Irvine; University of Maryland*
-**10:45-11:00 PST\ 1:45-2:00 EST**\ 15 minutes | **Break / Q&A for Individual Institutions**
-**11:00-12:00 PST\ 2:00-3:00 EST**\ 1 Hour | **Institutional Strategy Meeting I**\ Attendees will have the chance to collectively strategize around the issues at their specific institutions. This first institutional strategy meeting will focus on identifying common issues and determining priorities for collective action.
-**12:00-12:15 PST\ 3:00-3:15 EST**\ 15 minutes | **Break**
-**12:15-12:45 PST\ 3:15-3:45 EST**\ 30 minutes| **PAARC Collective Action Meeting**\ PAARC was founded with the goal of enabling and fostering inter-university collective action. During this meeting, attendees will have the opportunity to identify potential future collective efforts by PAARC and PAARC members that further the overarching goal of increasing equity in the physical sciences. This may include resource collection, workshop development, sit-ins and protests, social media campaigns, etc.
-**12:45-1:00 PST\ 3:45-4:00 EST**\ 15 minutes | **Break**
-**1:00-2:00 PST\ 3:00-4:00 EST**\ 1 hour | **Social Hour**
+|**Day 1** |
+|-------------  | -------------|
+|**9:00-9:30 PST\ 12:00-12:30 EST**\ 30 minutes | **Welcome and Introduction to PAARC**|
+|**9:30-9:45 PST\ 12:30-12:45 EST**\ 15 minutes | **Icebreaker (Breakout Rooms)**|
+|**9:45-10:00 PST\ 12:45-1:00 EST**\ 15 minutes | **Break**|
+|**10:00-10:4 PST\ 1:00-1:45 EST**\ 45 minutes | **PAARC Member Institution Updates**\ Several PAARC member institutions will give brief presentations on the current work being done at their institution.\ *List of presenting institutions: Massachusetts Institute of Technology; University of Wisconsin, Madison; University of Oregon; University of Chicago; University of California, Irvine; University of Maryland*|
+|**10:45-11:00 PST\ 1:45-2:00 EST**\ 15 minutes | **Break / Q&A for Individual Institutions**|
+|**11:00-12:00 PST\ 2:00-3:00 EST**\ 1 Hour | **Institutional Strategy Meeting I**\ Attendees will have the chance to collectively strategize around the issues at their specific institutions. This first institutional strategy meeting will focus on identifying common issues and determining priorities for collective action.|
+|**12:00-12:15 PST\ 3:00-3:15 EST**\ 15 minutes | **Break**|
+|**12:15-12:45 PST\ 3:15-3:45 EST**\ 30 minutes| **PAARC Collective Action Meeting**\ PAARC was founded with the goal of enabling and fostering inter-university collective action. During this meeting, attendees will have the opportunity to identify potential future collective efforts by PAARC and PAARC members that further the overarching goal of increasing equity in the physical sciences. This may include resource collection, workshop development, sit-ins and protests, social media campaigns, etc.|
+|**12:45-1:00 PST\ 3:45-4:00 EST**\ 15 minutes | **Break**|
+|**1:00-2:00 PST\ 3:00-4:00 EST**\ 1 hour | **Social Hour**|
 
 **Day 2** |
 -------------  | -------------
