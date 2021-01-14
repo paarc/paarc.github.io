@@ -24,7 +24,7 @@ PAARC Fair Schedule
 | Syntax | Description |
 | --- | ----------- |
 | **Header Header Header Header Header Header Header**<br>**Header Header Header Header**<br>Header Header Header Header     | **Title** |
-| Paragraph | Text |
+| Paragraph | Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text |
 
 
 
