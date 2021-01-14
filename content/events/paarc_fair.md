@@ -1,6 +1,6 @@
 ---
 title: "PAARC Fair"
-description: A weekend retreat hosted by PAARC
+description: A weekend retreat hosted by PAARC dedicated to collective strategizing on DEI issues across universities
 date: 2021-01-14
 tags: ["organizing", "visioning", "collective action", "retreat", "fair"]
 draft: false
@@ -8,8 +8,6 @@ draft: false
 
 **<div align="center">Date: January 30-31, 2021</div>**
 **<div align="center">Time: 9am-2pm PST/12-5pm EST</div>**
-
-[A weekend retreat hosted by PAARC dedicated to collective strategizing on DEI issues across universities.](https://www.eventbrite.com/e/120489771149/)\
 
 About this Event
 --------
