@@ -1,7 +1,7 @@
 ---
-title: "Update from the University of Wisconsin - Madison Astronomy"
+title: "Update from the University of Wisconsin - Madison Physics"
 date: 2020-10-14
-tags: ["Wisconsin", "Astronomy", "Madison", "update", "University of Wisconsin", "UW"]
+tags: ["Wisconsin", "Physics", "Madison", "update", "University of Wisconsin", "UW"]
 draft: false
 ---
 **Has your institution acted on any of your demands? Are there any positive outcomes you have had?**
