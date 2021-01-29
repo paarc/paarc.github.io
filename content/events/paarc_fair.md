@@ -56,7 +56,7 @@ PAARC was founded with the goal of enabling and fostering inter-university colle
 **12:45-1:00 PST | 3:45-4:00 EST** (15 minutes)\
 **Break**
 
-**1:00-2:00 PST | 3:00-4:00 EST** (1 hour)\
+**1:00-2:00 PST | 4:00-5:00 EST** (1 hour)\
 **Social Hour**
 
 ----------
