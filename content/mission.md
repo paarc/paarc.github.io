@@ -32,7 +32,7 @@ Spurred on by this understanding, we envision a world in which:
 - The current spontaneous push against systemic racism is consolidated into a sustainable, organized movement for radical change.
 
 
-PAARC Priorities
+PAARC priorities
 ------------------
 
 In order to realize the goals mentioned above, the members of PAARC will work to:
