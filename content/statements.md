@@ -27,5 +27,5 @@ An incomplete list of statements that were presented to their respective institu
 * [Department of Physics, University of Maryland](https://docs.google.com/document/d/1Qnhzyoq-byceyUmNABOL94XcBYJMgliwyz4TcW0RObc/edit?usp=sharing)
 * [Fermilab](https://changenowphysics.com/)
 * [Department of Physics and Astronomy, University of Rochester](https://docs.google.com/document/d/1x6WnX3nqyCbOptDR2HNNmUwsy70ilk4uxqeG1vBQHaA/edit?usp=sharing)
-* [Department of Physics, University of Colorado](https://docs.google.com/document/d/1LMqNnHeGF0TD5hXakwR0RwJJKc5A9t4GNVkH8oW_y5g/edit?usp=sharing)
+* [Department of Physics, University of Colorado Boulder](https://docs.google.com/document/d/1LMqNnHeGF0TD5hXakwR0RwJJKc5A9t4GNVkH8oW_y5g/edit)
 * [Department of Physics, University of Oregon](https://docs.google.com/document/d/1__RV_MYrbDGAYEF-vre-NUWeYWvhfMZNp932TNEdQJ8/edit?usp=sharing)
