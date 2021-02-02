@@ -34,10 +34,10 @@ googleAnalytics = "G-FT1H4FH103"
     name = "Statements"
     weight = 3
 
-#[[menu.main]]
-#    url = "/Resources/"
-#    name = "Resources"
-#    weight = 4
+[[menu.main]]
+    url = "/Resources/"
+    name = "Resources"
+    weight = 4
 
 [[menu.main]]
     url = "/news/"
