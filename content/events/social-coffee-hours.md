@@ -1,7 +1,7 @@
 ---
 title: "Announcing PAARC's weekly social meetings!"
 description: Weekly meetings for community building
-date: 2020-09-15
+date: 2021-02-02
 tags: ["Social", "Undergrad", "graduate school", "Fun"]
 draft: false
 ---
