@@ -19,6 +19,25 @@ Join us every other Wednesday to take your research to the next level! All mater
 
 Schedule
 --------
+
+ <table style="width:100%">
+  <tr>
+    <th>Date</th>
+    <th>Instructor</th>
+    <th>Topic</th>
+  </tr>
+  <tr>
+    <td>6-2-2021</td>
+    <td>TBD</td>
+    <td>Introduction to Doing Science in Python for REAL Beginners</td>
+  </tr>
+  <tr>
+    <td>6-16-2021</td>
+    <td>Adam Miller</td>
+    <td>Visualizing Data with Matplotlib </td>
+  </tr>
+</table> 
+
 Date | Instructor | Topic 
 -------------|-------------|-------------
 6-2-2021 |  TBD | Introduction to "Doing Science" in Python for REAL Beginners 
