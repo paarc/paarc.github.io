@@ -22,7 +22,7 @@ Schedule
 
  <table style="width:100%">
   <tr>
-    <th>Date</th>
+    <th>Date text-align="center"</th>
     <th>Instructor</th>
     <th>Topic</th>
   </tr>
