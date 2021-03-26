@@ -21,12 +21,22 @@ Schedule
 --------
 
 <style>
- th {
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+}
+table {
   text-align: center;
 }
- </style>
+ table.center {
+  margin-left: auto; 
+  margin-right: auto;
+</style>
 
- <table style="width:100%">
+ <table class="center">
   <tr>
     <th>Date</th>
     <th>Instructor</th>
@@ -42,20 +52,47 @@ Schedule
     <td>Adam Miller</td>
     <td>Visualizing Data with Matplotlib </td>
   </tr>
+  <tr>
+    <td>6-30-2021</td>
+    <td>TBD</td>
+    <td>NumPy, Functions, and Data </td>
+  </tr>
+  <tr>
+    <td>7-14-2021</td>
+    <td>TBD</td>
+    <td>Fitting Models Data </td>
+  </tr>
+  <tr>
+    <td>7-28-2021</td>
+    <td>TBD</td>
+    <td>Intorduction to Image Processing </td>
+  </tr>
+  <tr>
+    <td>8-11-2021</td>
+    <td>TBD</td>
+    <td>Ethics of Scientific Research </td>
+  </tr>
+  <tr>
+    <td>8-25-2021</td>
+    <td>Rob Morgan</td>
+    <td>Parallel A: Best Coding Practices for Python</td>
+  </tr>
+  <tr>
+    <td>8-25-2021</td>
+    <td>TBD</td>
+    <td>Parallel B: Popular Data Analysis Packages </td>
+  </tr>
+  <tr>
+    <td>9-8-2021</td>
+    <td>TBD</td>
+    <td>Parallel A: Version Control with GitHub </td>
+  </tr>
+  <tr>
+    <td>9-8-2021</td>
+    <td>TBD</td>
+    <td>Parallel B: Intorduction to Machine Learning </td>
+  </tr>
 </table> 
-
-Date | Instructor | Topic 
--------------|-------------|-------------
-6-2-2021 |  TBD | Introduction to "Doing Science" in Python for REAL Beginners 
-6-16-2021 |  Adam Miller | Visualizing Data with Matplotlib 
-6-30-2021 |  TBD | NumPy, Functions, and Data 
-7-14-2021 |  TBD | Fitting Models to Data 
-7-28-2021 |  name | Introduction to Image Processing 
-8-11-2021 |  name | Ethics of Scientific Research 
-8-25-2021 |  Rob Morgan | Parallel A: Best Coding Practices for Python 
-8-25-2021 |  name | Parallel B: Popular Data Analysis Packages 
-9-8-2021 |  name | Parallel A: Version Control with GitHub :octocat:
-9-8-2021 |  name | Parallel B: Introduction to Machine Learning 
 
 
 Resources
