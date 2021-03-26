@@ -31,6 +31,9 @@ th, td {
 table {
   text-align: center;
 }
+th {
+  text-align: center;
+}
  table.center {
   margin-left: auto; 
   margin-right: auto;
