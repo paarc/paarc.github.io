@@ -20,7 +20,7 @@ Join us every other Wednesday to take your research to the next level! All mater
 Schedule
 --------
 Date | Instructor | Topic 
-------------- | ------------- | -------------
+-------------|-------------|-------------
 6-2-2021 |  TBD | Introduction to "Doing Science" in Python for REAL Beginners 
 6-16-2021 |  Adam Miller | Visualizing Data with Matplotlib 
 6-30-2021 |  TBD | NumPy, Functions, and Data 
