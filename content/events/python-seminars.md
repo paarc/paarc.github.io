@@ -21,16 +21,16 @@ Schedule
 --------
 Date | Instructor | Topic 
 ------------- | ------------- | -------------
-| 6-2-2021 |  TBD | Introduction to "Doing Science" in Python for REAL Beginners 
-| 6-16-2021 |  Adam Miller | Visualizing Data with Matplotlib 
-| 6-30-2021 |  TBD | NumPy, Functions, and Data 
-| 7-14-2021 |  TBD | Fitting Models to Data 
-| 7-28-2021 |  name | Introduction to Image Processing 
-| 8-11-2021 |  name | Ethics of Scientific Research 
-| 8-25-2021 |  Rob Morgan | Parallel A: Best Coding Practices for Python 
-| 8-25-2021 |  name | Parallel B: Popular Data Analysis Packages 
-| 9-8-2021 |  name | Parallel A: Version Control with GitHub :octocat:
-| 9-8-2021 |  name | Parallel B: Introduction to Machine Learning 
+6-2-2021 |  TBD | Introduction to "Doing Science" in Python for REAL Beginners 
+6-16-2021 |  Adam Miller | Visualizing Data with Matplotlib 
+6-30-2021 |  TBD | NumPy, Functions, and Data 
+7-14-2021 |  TBD | Fitting Models to Data 
+7-28-2021 |  name | Introduction to Image Processing 
+8-11-2021 |  name | Ethics of Scientific Research 
+8-25-2021 |  Rob Morgan | Parallel A: Best Coding Practices for Python 
+8-25-2021 |  name | Parallel B: Popular Data Analysis Packages 
+9-8-2021 |  name | Parallel A: Version Control with GitHub :octocat:
+9-8-2021 |  name | Parallel B: Introduction to Machine Learning 
 
 
 Resources
