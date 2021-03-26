@@ -47,7 +47,7 @@ Several PAARC member institutions will give brief presentations on the current w
 Attendees will have the chance to collectively strategize around the issues at their specific institutions. This first institutional strategy meeting will focus on identifying common issues and determining priorities for collective action.
 
 **Break**\
-***12:00-12:15 PST | 3:00-3:15 EST*** *(15 minutes)*\
+***12:00-12:15 PST | 3:00-3:15 EST*** *(15 minutes)*
 
 **PAARC Collective Action Meeting**\
 ***12:15-12:45 PST | 3:15-3:45 EST*** *(30 minute)*\
