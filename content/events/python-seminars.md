@@ -20,9 +20,15 @@ Join us every other Wednesday to take your research to the next level! All mater
 Schedule
 --------
 
+<style>
+ th {
+  text-align: center;
+}
+ </style>
+
  <table style="width:100%">
   <tr>
-    <th>Date text-align="center"</th>
+    <th>Date</th>
     <th>Instructor</th>
     <th>Topic</th>
   </tr>
