@@ -17,6 +17,10 @@ In most subfields, Python has become the programming language of choice.
 This summer seminar series will intorduce you to the Python programming language, familiarize you with popular science computing packages, and touch on some essential concepts for academic research.
 Join us every other Wednesday to take your research to the next level! All materials will be made available on this page after each seminar.
 
+Connection Info
+--------
+Zoom: TBD
+
 Schedule
 --------
 
