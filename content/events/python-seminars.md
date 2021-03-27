@@ -72,7 +72,7 @@ th {
   <tr>
     <td>7-28-2021</td>
     <td>TBD</td>
-    <td>Intorduction to Image Processing </td>
+    <td>Introduction to Image Processing </td>
   </tr>
   <tr>
     <td>8-11-2021</td>
@@ -97,7 +97,7 @@ th {
   <tr>
     <td>9-8-2021</td>
     <td>TBD</td>
-    <td>Parallel B: Intorduction to Machine Learning </td>
+    <td>Parallel B: Introduction to Machine Learning </td>
   </tr>
 </table> 
 
