@@ -8,7 +8,7 @@ draft: false
 **<div align="center">Starting June 2nd, 2021</div>**
 **<div align="center">Every other Wednesday; TBD PT/ TBD MT/ TBD CT/ TBD ET</div>**
 
-**Gradutate student and postdoc instructors will cover Python essentials for excelling in you research**
+**Gradutate student and postdoc instructors will cover Python essentials for excelling in your research**
 
 About this Event
 --------
