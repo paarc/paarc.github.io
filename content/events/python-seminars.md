@@ -51,7 +51,7 @@ th {
   </tr>
   <tr>
     <td>6-2-2021</td>
-    <td>TBD</td>
+    <td>Ramsey Karim</td>
     <td>Introduction to Doing Science in Python for REAL Beginners</td>
   </tr>
   <tr>
@@ -61,17 +61,17 @@ th {
   </tr>
   <tr>
     <td>6-30-2021</td>
-    <td>TBD</td>
+    <td>Ramsey Karim</td>
     <td>NumPy, Functions, and Data </td>
   </tr>
   <tr>
     <td>7-14-2021</td>
-    <td>TBD</td>
+    <td>John Evans</td>
     <td>Fitting Models Data </td>
   </tr>
   <tr>
     <td>7-28-2021</td>
-    <td>TBD</td>
+    <td>Tomas Ahumada</td>
     <td>Introduction to Image Processing </td>
   </tr>
   <tr>
@@ -96,7 +96,7 @@ th {
   </tr>
   <tr>
     <td>9-8-2021</td>
-    <td>TBD</td>
+    <td>Kate Storey-Fisher</td>
     <td>Parallel B: Introduction to Machine Learning </td>
   </tr>
 </table> 
