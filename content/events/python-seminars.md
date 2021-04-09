@@ -51,7 +51,7 @@ th {
   </tr>
   <tr>
     <td>6-2-2021</td>
-    <td>Ramsey Karim</td>
+    <td>Julian Marohnic</td>
     <td>Introduction to Doing Science in Python for REAL Beginners</td>
   </tr>
   <tr>
