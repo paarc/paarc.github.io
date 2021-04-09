@@ -67,7 +67,7 @@ th {
   <tr>
     <td>7-14-2021</td>
     <td>John Evans</td>
-    <td>Fitting Models Data </td>
+    <td>Fitting Models to Data </td>
   </tr>
   <tr>
     <td>7-28-2021</td>
