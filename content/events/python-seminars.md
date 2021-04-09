@@ -105,3 +105,4 @@ th {
 Resources
 --------
 
+Lecture recordings and materials will be linked here following each seminar.
