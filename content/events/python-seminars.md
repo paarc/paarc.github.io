@@ -76,7 +76,7 @@ th {
   </tr>
   <tr>
     <td>8-11-2021</td>
-    <td>Brian Nord, Savannah Thais, and Renee Cummings</td>
+    <td>Brian Nord, Savannah Thais,<br>and Renee Cummings</td>
     <td>Ethics of Scientific Research </td>
   </tr>
   <tr>
