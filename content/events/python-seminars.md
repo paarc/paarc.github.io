@@ -77,7 +77,7 @@ th {
   <tr>
     <td>8-11-2021</td>
     <td>Brian Nord, Savannah Thais,<br>and Renee Cummings</td>
-    <td>Ethics of Scientific Research </td>
+    <td>Ethics of Scientific Research and AI</td>
   </tr>
   <tr>
     <td>8-25-2021</td>
