@@ -86,12 +86,12 @@ th {
   </tr>
   <tr>
     <td>8-25-2021</td>
-    <td>TBD</td>
+    <td>Melissa Morris</td>
     <td>Parallel B: Popular Data Analysis Packages </td>
   </tr>
   <tr>
     <td>9-8-2021</td>
-    <td>TBD</td>
+    <td>Katie Latimer</td>
     <td>Parallel A: Version Control with GitHub </td>
   </tr>
   <tr>
