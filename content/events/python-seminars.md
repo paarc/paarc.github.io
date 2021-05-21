@@ -53,57 +53,57 @@ th {
   <tr>
     <th>Date</th>
     <th>Instructor</th>
-    <th>Topic</th>
+    <th>Seminar</th>
   </tr>
   <tr>
     <td>6-2-2021</td>
     <td>Julian Marohnic</td>
-    <td>Introduction to Doing Science in Python for REAL Beginners</td>
+    <td>(1) Introduction to Doing Science in Python for REAL Beginners</td>
   </tr>
   <tr>
     <td>6-16-2021</td>
     <td>Adam Miller</td>
-    <td>Visualizing Data with Matplotlib </td>
+    <td>(2) Visualizing Data with Matplotlib </td>
   </tr>
   <tr>
     <td>6-30-2021</td>
     <td>Ramsey Karim</td>
-    <td>NumPy, Functions, and Data </td>
+    <td>(3) NumPy, Functions, and Data </td>
   </tr>
   <tr>
     <td>7-14-2021</td>
     <td>John Evans</td>
-    <td>Fitting Models to Data </td>
+    <td>(4) Fitting Models to Data </td>
   </tr>
   <tr>
     <td>7-28-2021</td>
     <td>Tomas Ahumada</td>
-    <td>Introduction to Image Processing </td>
+    <td>(5) Introduction to Image Processing </td>
   </tr>
   <tr>
     <td>8-11-2021</td>
     <td>Brian Nord, Savannah Thais,<br>and Renee Cummings</td>
-    <td>Ethics of Scientific Research and AI</td>
+    <td>(6) Ethics of Scientific Research and AI</td>
   </tr>
   <tr>
     <td>8-25-2021</td>
     <td>Rob Morgan</td>
-    <td>Parallel A: Best Coding Practices for Python</td>
+    <td>(7a) Parallel A: Best Coding Practices for Python</td>
   </tr>
   <tr>
     <td>8-25-2021</td>
     <td>Melissa Morris</td>
-    <td>Parallel B: Popular Data Analysis Packages </td>
+    <td>(7b) Parallel B: Popular Data Analysis Packages </td>
   </tr>
   <tr>
     <td>9-8-2021</td>
     <td>Katie Latimer</td>
-    <td>Parallel A: Version Control with GitHub </td>
+    <td>(8a) Parallel A: Version Control with GitHub </td>
   </tr>
   <tr>
     <td>9-8-2021</td>
     <td>Kate Storey-Fisher</td>
-    <td>Parallel B: Introduction to Machine Learning </td>
+    <td>(8b) Parallel B: Introduction to Machine Learning </td>
   </tr>
 </table> 
 
