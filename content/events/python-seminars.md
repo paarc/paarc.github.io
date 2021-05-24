@@ -1,7 +1,7 @@
 ---
 title: "Python Seminars"
 description: A summer seminar series for using Python in your scientific research
-date: 2021-06-02
+date: 2021-5-12
 tags: ["Python", "Computing", "Research", "Programming", "Seminars"]
 draft: false
 ---
