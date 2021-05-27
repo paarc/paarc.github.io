@@ -10,6 +10,10 @@ draft: false
 
 **Gradutate student and postdoc instructors will cover Python essentials for excelling in your research**
 
+Note
+--------
+If you signed up for these seminars and have not received a welcome email with instructions for joining the Slack workspace, please complete the [Sign-Up Form](https://forms.gle/9k5ipKE5ZrTGYiiM8 ) one more time. Some email addresses were entered incorrectly.
+
 About this Event
 --------
 Several research subfields in physics and astronomy have elements of data analysis, numerical calculations, figure creation, and software design.
