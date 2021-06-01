@@ -29,7 +29,7 @@ https://forms.gle/9k5ipKE5ZrTGYiiM8
 
 Connection Info
 --------
-Zoom: TBD
+Connection info will be distributed via Slack and email to participants who filled out the [Sign-Up Form](https://forms.gle/9k5ipKE5ZrTGYiiM8).
 
 Schedule
 --------
