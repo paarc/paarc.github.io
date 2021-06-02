@@ -81,7 +81,7 @@ th {
   </tr>
   <tr>
     <td>7-28-2021</td>
-    <td>Tomas Ahumada</td>
+    <td>Tomás Ahumada</td>
     <td>(5) Introduction to Image Processing </td>
   </tr>
   <tr>
