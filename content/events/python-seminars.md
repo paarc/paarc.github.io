@@ -116,3 +116,9 @@ Resources
 --------
 
 Lecture recordings and materials will be linked here following each seminar.
+
+**Seminar 1: Introduction to Doing Science in Python for REAL Beginners**
+
+- [Lecture Recording](https://drive.google.com/file/d/1ZtLxMYifK8FgjTrQUlLKoND9mjNcpif2/view?usp=sharing)
+- [Student Notebook](https://colab.research.google.com/github/ramseykarim/paarc-seminars/blob/main/Lecture1/Student.ipynb)
+- [Notebook Solutions](https://colab.research.google.com/github/ramseykarim/paarc-seminars/blob/main/Lecture1/Instructor.ipynb)
