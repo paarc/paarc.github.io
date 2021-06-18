@@ -8,7 +8,7 @@ draft: false
 **<div align="center">Starting June 2nd, 2021</div>**
 **<div align="center">Every other Wednesday; 2PM United States-Central Time (UTC-5)</div>**
 
-**Gradutate student and postdoc instructors will cover Python essentials for excelling in your research**
+**Graduate student and postdoc instructors will cover Python essentials for excelling in your research**
 
 Note
 --------
