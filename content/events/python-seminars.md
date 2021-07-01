@@ -128,3 +128,9 @@ Lecture recordings and materials will be linked here following each seminar.
 - [Lecture Recording](https://drive.google.com/file/d/1RQticHGCqZMQk4Gy2AUaS-7UnkB_CS7x/view?usp=sharing)
 - [Student Notebook](https://colab.research.google.com/github/ramseykarim/paarc-seminars/blob/main/Lecture2/SalienceInMatplotlib.ipynb)
 - Notebook Solutions coming soon!
+
+**Seminar 3: Numpy, Functions, and Data**
+
+- [Lecture Recording](https://drive.google.com/file/d/1RJ1YIQvlsWJt95l88N3bZMGE8wA4shEg/view?usp=sharing)
+- [Student Notebook](https://colab.research.google.com/github/ramseykarim/paarc-seminars/blob/main/Lecture3/Student.ipynb)
+- [Notebook Solutions](https://colab.research.google.com/github/ramseykarim/paarc-seminars/blob/main/Lecture3/Instructor.ipynb)
