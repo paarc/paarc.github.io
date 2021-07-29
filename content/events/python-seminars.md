@@ -140,3 +140,9 @@ Lecture recordings and materials will be linked here following each seminar.
 - [Lecture Recording](https://drive.google.com/file/d/1TmJljB9z4aC1oRKkZcnNlDzAa6VwixLc/view?usp=sharing)
 - [Student Notebook](https://colab.research.google.com/github/ramseykarim/paarc-seminars/blob/main/Lecture4/Student.ipynb)
 - [Notebook Solutions](https://colab.research.google.com/github/ramseykarim/paarc-seminars/blob/main/Lecture4/Instructor.ipynb)
+
+**Seminar 5: Introduction to Image Processing**
+
+- [Lecture Recording](https://drive.google.com/file/d/1zp8Y5q4vtdd-Fdu_egLRMCJCz5n1l5fX/view?usp=sharing)
+- [Student Notebook](https://colab.research.google.com/github/ramseykarim/paarc-seminars/blob/main/Lecture5/Student.ipynb)
+- [Notebook Solutions](https://colab.research.google.com/github/ramseykarim/paarc-seminars/blob/main/Lecture5/Instructor.ipynb)
