@@ -5,14 +5,13 @@ date: 2021-5-12
 tags: ["Python", "Computing", "Research", "Programming", "Seminars"]
 draft: false
 ---
-**<div align="center">Starting June 2nd, 2021</div>**
-**<div align="center">Every other Wednesday; 2PM United States-Central Time (UTC-5)</div>**
 
 **Graduate student and postdoc instructors will cover Python essentials for excelling in your research**
 
 Note
 --------
-If you signed up for these seminars and have not received a welcome email with instructions for joining the Slack workspace, please complete the [Sign-Up Form](https://forms.gle/9k5ipKE5ZrTGYiiM8 ) one more time. Some email addresses were entered incorrectly.
+This seminar series has now concluded. 
+All materials are avaiable in the Resources section at the bottom of this page.
 
 About this Event
 --------
@@ -21,15 +20,6 @@ In most subfields, Python has become the programming language of choice.
 This summer seminar series will intorduce you to the Python programming language, familiarize you with popular science computing packages, and touch on some essential concepts for academic research.
 Join us every other Wednesday to take your research to the next level! All materials will be made available on this page after each seminar.
 
-Sign-Up Form
---------
-Fill out the form below to join the fun (or if you just have any questions)!
-
-https://forms.gle/9k5ipKE5ZrTGYiiM8 
-
-Connection Info
---------
-Connection info will be distributed via Slack and email to participants who filled out the [Sign-Up Form](https://forms.gle/9k5ipKE5ZrTGYiiM8).
 
 Schedule
 --------
@@ -83,31 +73,6 @@ th {
     <td>7-28-2021</td>
     <td>Tomás Ahumada</td>
     <td>(5) Introduction to Image Processing </td>
-  </tr>
-  <tr>
-    <td>8-11-2021</td>
-    <td>Brian Nord, Savannah Thais,<br>and Renee Cummings</td>
-    <td>(6) Ethics of Scientific Research and AI</td>
-  </tr>
-  <tr>
-    <td>8-25-2021</td>
-    <td>Rob Morgan</td>
-    <td>(7a) Parallel A: Best Coding Practices for Python</td>
-  </tr>
-  <tr>
-    <td>8-25-2021</td>
-    <td>Melissa Morris</td>
-    <td>(7b) Parallel B: Popular Data Analysis Packages </td>
-  </tr>
-  <tr>
-    <td>9-8-2021</td>
-    <td>Katie Latimer</td>
-    <td>(8a) Parallel A: Version Control with GitHub </td>
-  </tr>
-  <tr>
-    <td>9-8-2021</td>
-    <td>Kate Storey-Fisher</td>
-    <td>(8b) Parallel B: Introduction to Machine Learning </td>
   </tr>
 </table> 
 
