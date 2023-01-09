@@ -1,6 +1,6 @@
 ---
 title: "CRANE Spring Seminar"
-date: 2023-01-30
+date: 2023-01-01
 tags: ["omputational Research Access Network", "undergrad", "semimar", "diversity", "free", "spring"]
 draft: false
 ---
