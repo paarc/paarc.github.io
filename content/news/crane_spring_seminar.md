@@ -1,7 +1,7 @@
 ---
 title: "CRANE Spring Seminar"
 date: 2023-01-01
-tags: ["omputational Research Access Network", "undergrad", "semimar", "diversity", "free", "spring"]
+tags: ["computational physcis", "undergrad", "semimar", "diversity", "free", "spring"]
 draft: false
 ---
 [CRANE](https://www.cranephysics.org/seminar-information)
